@@ -10129,7 +10129,7 @@ section.resume-section .resume-section-content {
   section.resume-section {
     padding-left: 3rem;
     padding-right: 3rem;
-    padding-top: 5rem;
+    padding-top: 2rem; /* Top topic secrtion change */
     padding-bottom: 5rem;
   }
 }
